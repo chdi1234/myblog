@@ -1,0 +1,36 @@
+<html>
+
+<head>
+    <title>my portfolio</title>
+    <style>
+
+
+    </style>
+    <ul class="menu">
+        <li class="link">About</li>
+        <li class="link">My favorite baseball players</li>
+        <li class="link">My work</li>
+        <li class="link">inspiration</li>
+        <li class="link">contact</li>
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap" rel="stylesheet">
+
+
+    </ul>
+</head>
+
+<body>
+    <section>
+        <img src=https://images.unsplash.com/photo-1617380044958-7a9d94108922?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxNDU4OXwwfDF8cmFuZG9tfHx8fHx8fHx8MTYyMDEwMzM0NQ&ixlib=rb-1.2.1&q=85>
+        <h1>my favorite hobby<br><span id="name">playing baseball</span></h1>
+
+    </section>
+    <section id=bio>
+        <h1></h1>
+        <div class="line">
+            <p> My hobby is playing baseball with my dad or with my baseball team. I normally play baseball for a couple hours for 4 days a week. I normally play the position right field so if the ball is hit hard to the right im the person that has to field it and throw it far and fast so that I can get the runner out while he is running the bases. Unlike most players, im better on defense than offense. This is mainly because I could always throw far so ive been focusing on it and perfecting it. I'm not a power hitter when it comes to hitting. However, I am a smart and aggresive base runner, so the defense has to be perfect in order to stop me from advancing bases all the way to home.
+        </div>
+    </section>
+</body>
+
+</html>
